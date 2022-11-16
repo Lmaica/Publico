@@ -1,0 +1,51 @@
+header {
+    background-color: #5d40e4;
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+}
+
+.lista-castro {
+    display: flex;
+    margin: 20px 0;
+    padding: 0 20px;
+}
+
+.lista-castro input[type=text] {
+    flex: 1;
+    height: 40px;
+    padding-left: 0 20px;
+}
+
+.listados {
+    background-color: #bfb1ff;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+
+}
+
+.listados h3 {
+    flex: 1;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+}
+
+h3.preco {
+    text-align: right;
+    font-size: 17px;
+}
+
+h3.preco>span {
+    background-color: #fcfbff;
+    padding: 8px 10px;
+    border-radius: 20px;
+    color: rgb(149, 11, 11);
+}
+
+.soma {
+    padding: 0 20px;
+    text-align: right;
+    font-size: 17px;
+   
+}
