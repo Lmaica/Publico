@@ -1,0 +1,23 @@
+.jogada img,
+.joga-java img{
+    align-items: center;
+    max-width: 150px;
+    opacity: 0.2;
+}
+.jogada img{
+    cursor: pointer;
+}
+.alinhar{
+    position: absolute;
+    display: flex;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+h1{
+    text-align: center;
+    background-color: aquamarine;
+}
+.veses{
+    display:block;
+}
