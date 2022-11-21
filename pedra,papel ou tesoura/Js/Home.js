@@ -78,7 +78,7 @@ for (var i = 0; i < game.length; i++) {
     play = t.target.getAttribute('opt');
     Inimigo();
     definir();
-    numeros();
+
   })
 }
 
